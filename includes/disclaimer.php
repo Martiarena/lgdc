@@ -1,0 +1,1 @@
+<h6><marquee behavior="side"><a id="disclaimer-link" href="#disclaimer">Leer el disclaimer al final</a></marquee></h6>
