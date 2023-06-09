@@ -213,17 +213,19 @@ body.iframe-lightbox--open {
                     <div>
              			<h2>Juegos</h2>
                         <p>Estos videojuegos datan de mi época del secundario, los conocí en mis clases de computación y los jugabamos cuando el profesor demoraba en llegar xD. <u>Funcionarán a la perfección si los corres en un windows 98.</u></p>
-             			<table width="100%" border="3px" cellpadding="3px">
+             			<table id="juegos-lista" width="100%" border="3px" cellpadding="3px">
                             <tr>
                                 <td width="50%">
                                     <img width="100%" src="img/juegos/dangerous_dave.jpg" />
                                 </td>
                                 <td width="50%">
-                                    <h3>Dangerous Dave</h3><br>
-                                    <strong>Género:</strong> Plataformero
-									<strong>Plataforma:</strong> MS-DOS
+                                    <h3>Dangerous Dave</h3>
+									<ul>
+										<li><strong>Género:</strong> Plataformero</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Mis compañeros de la secundaria se lo jugaban para pasar el rato cuando el profesor no venía, muy divertido como también dificil.</p>
-                                    <a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -231,11 +233,13 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/specops_war_on_terrorism.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Spec Ops: War on Terrorism</h3><br>
-                                    <strong>Género:</strong> FPS
-									<strong>Plataforma:</strong> Flash Player
+                                    <h3>Spec Ops: War on Terrorism</h3>
+									<ul>
+										<li><strong>Género:</strong> FPS</li>
+										<li><strong>Plataforma:</strong> Flash Player</li>
+									</ul>
                                     <p>Otro clásico de la secundaria. Es un videojuego corto donde debemos acabar con terroristas en distintas misiones antes que nos disparen. Está hecho con flash.</p>
-                                    <a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -243,22 +247,27 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/skifree.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Skifree</h3><br>
-                                    <strong>Género:</strong> Arcade
-									<strong>Plataforma:</strong> PC
+                                    <h3>Skifree</h3>
+                                    <ul>
+										<li><strong>Género:</strong> Arcade</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Se debe hacer la mayor puntuación posible antes que llegue el Yeti a comerte xd. Es imposible escapar del Yeti, pero hay una tecla que aumenta la velocidad del esquiador para evitar que el Yeti te atrape tan rápido.</p>
-                                    <a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/mario_angelo.jpg" />
+                                    <img width="100%" src="img/juegos/marioangelo.jpg" />
                                 </td>
                                 <td>
                                     <h3>Mario Angelo</h3>
-									<strong>Plataforma:</strong> MS-DOS
+									<ul>
+										<li><strong>Género:</strong> Plataformero</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -267,9 +276,12 @@ body.iframe-lightbox--open {
                                 </td>
                                 <td>
                                     <h3>Reflection</h3>
-									<strong>Plataforma:</strong> MS-DOS
+									<ul>
+										<li><strong>Género:</strong> SHMUP</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -278,31 +290,40 @@ body.iframe-lightbox--open {
                                 </td>
                                 <td>
                                     <h3>Galacta</h3>
-									<strong>Plataforma:</strong> MS-DOS
+									<ul>
+										<li><strong>Género:</strong> SHMUP</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/aldo_adventure.jpg" />
+                                    <img width="100%" src="img/juegos/aldoadventure.jpg" />
                                 </td>
                                 <td>
                                     <h3>Aldo Adventure</h3>
-									<strong>Plataforma:</strong> MS-DOS
+									<ul>
+										<li><strong>Género:</strong> Plataformero</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/Mario.jpg" />
+                                    <img width="100%" src="img/juegos/mario.jpg" />
                                 </td>
                                 <td>
                                     <h3>Mario</h3>
-									<strong>Plataforma:</strong> MS-DOS
+									<ul>
+										<li><strong>Género:</strong> Plataformero</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -311,42 +332,12 @@ body.iframe-lightbox--open {
                                 </td>
                                 <td>
                                     <h3>Race 19</h3>
-									<strong>Plataforma:</strong> MS-DOS
+									<ul>
+										<li><strong>Género:</strong> Carrera, Survival</li>
+										<li><strong>Plataforma:</strong> MS-DOS</li>
+									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img width="100%" src="img/juegos/rattler.jpg" />
-                                </td>
-                                <td>
-                                    <h3>Rattler</h3>
-									<strong>Plataforma:</strong> MS-DOS
-                                    <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img width="100%" src="img/juegos/wslam.jpg" />
-                                </td>
-                                <td>
-                                    <h3>WSLAM</h3>
-									<strong>Plataforma:</strong> MS-DOS
-                                    <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <img width="100%" src="img/juegos/globo.jpg" />
-                                </td>
-                                <td>
-                                    <h3>GLOBO</h3>
-									<strong>Plataforma:</strong> MS-DOS
-                                    <p>Plataformero muy divertido.</p>
-                                    <a href="downloads/juegos/Judas.zip"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -354,11 +345,13 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/indinaloq.jpg" />
                                 </td>
                                 <td>
-                                    <h3>IndinaLoq</h3><br>
-                                    <strong>Género:</strong> SHMUP
-									<strong>Plataforma:</strong> PC (Win98)
+                                    <h3>IndinaLoq</h3>
+                                    <ul>
+										<li><strong>Género:</strong> SHMUP</li>
+										<li><strong>Plataforma:</strong> PC</li>
+									</ul>
                                     <p>Creado por Namikaze Project a finales de los 90's. No recuerdo en qué página de juegos japones lo conocí, pero me gustó mucho en su momento, es compatible con windows 98 a windows XP, apartir de Windows Vista empezò a mostrar fallos volviendose casi injugable en Windows 10.</p>
-                                    <a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a>
+                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
                                 </td>
                             </tr>
                         </table>

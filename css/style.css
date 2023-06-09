@@ -4,7 +4,7 @@ html {
 
 body{
     background: url(../img/fondo.jpg);
-    color: #fff;
+    color: white;
     font-family: Arial;
     font-size: 12px;
     margin: 0px;
@@ -26,8 +26,8 @@ h6 a{
     color: red;
 }
 a{
-    text-decoration: none;
-    color: white;
+    text-decoration: underline;
+    color: cyan;
 }
 
 table h1,
@@ -150,7 +150,7 @@ main {
 }
 main .contenedor {
     background: url(../img/fondo2.jpg);
-    border: 3px double #fff;
+    border: 3px double white;
     padding: 1em;
     padding: 1em;
     box-sizing: border-box;
@@ -166,6 +166,37 @@ main .contenedor.advertencia {
 .alert {
     animation-duration: 1s;
     animation-name: Disclaimer;
+}
+
+.download {
+    transform: translate(-50%, -50%);
+    font-size: 1rem;
+}
+.download strong span {
+    color: transparent;
+	animation: effect 2s linear infinite;
+}
+
+#juegos-lista h3{
+    color: greenyellow;
+}
+#juegos-lista ul {
+    padding-left: 15px;
+}
+
+
+@keyframes effect {
+	0% {
+		background: linear-gradient(
+				#008000, #00FF00);
+		-webkit-background-clip: text;
+	}
+
+	100% {
+		background: linear-gradient(
+				#3CE7D7, #000FFF);
+		-webkit-background-clip: text;
+	}
 }
 
 @keyframes Disclaimer {
