@@ -24,6 +24,7 @@ h6{
 }
 h6 a{
     color: red;
+    text-decoration: none;
 }
 a{
     text-decoration: underline;
@@ -91,6 +92,7 @@ nav ul li a{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;
     font-weight: 700;
     text-transform: uppercase;
     color: aliceblue;
