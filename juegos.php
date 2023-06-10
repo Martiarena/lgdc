@@ -225,7 +225,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Mis compañeros de la secundaria se lo jugaban para pasar el rato cuando el profesor no venía, muy divertido como también dificil.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/Judas" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -239,7 +239,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> Flash Player</li>
 									</ul>
                                     <p>Otro clásico de la secundaria. Es un videojuego corto donde debemos acabar con terroristas en distintas misiones antes que nos disparen. Está hecho con flash.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/WarOnTerror" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -253,7 +253,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Se debe hacer la mayor puntuación posible antes que llegue el Yeti a comerte xd. Es imposible escapar del Yeti, pero hay una tecla que aumenta la velocidad del esquiador para evitar que el Yeti te atrape tan rápido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/Skifree" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -267,7 +267,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/SuperAngelo" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -281,7 +281,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="#https://cuty.io/Reflection" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -295,7 +295,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/Galacta" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -309,7 +309,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/AldoAdventur" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -323,7 +323,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/MarioDOS" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
@@ -337,7 +337,7 @@ body.iframe-lightbox--open {
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
                                     <p>Plataformero muy divertido.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="#https://cuty.io/Race19" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>

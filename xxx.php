@@ -18,7 +18,7 @@
                                 <td>
                                     <table width="100%" border="0px" cellpadding="0px">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Hitomi Tanaka<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Hitomi Tanaka<br> 682Mb (HD Ver.) - 17 min</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -55,7 +55,7 @@
                                 <td>
                                     <table width="100%" border="0px" cellpadding="0px">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Hitomi Tanaka<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Hitomi Tanaka<br> 514Mb (HD Ver.) - 14 min</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -92,7 +92,7 @@
                                 <td>
                                     <table width="100%" border="0" cellpadding="0">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Hitomi Tanaka<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Hitomi Tanaka<br> 92Mb - 11 min total</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -120,7 +120,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center">
+                                                <strong>&gt;&gt; <a href="https://cuty.io/Hitomi274" target="_blank">Descargar</a> &lt;&lt;</strong>
+                                            </td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -129,7 +132,7 @@
                                 <td>
                                     <table width="100%" border="0px" cellpadding="0px">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Yuuki Manaka<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Yuuki Manaka<br> 135Mb - 14 min</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -157,7 +160,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center">
+                                                <strong>&gt;&gt; <a href="https://cuty.io/Yuki2" target="_blank">Descargar</a> &lt;&lt;</strong>
+                                            </td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -166,7 +172,7 @@
                                 <td>
                                     <table width="100%" border="0px" cellpadding="0px">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Marina Matsushima<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Marina Matsushima<br> 108Mb - 10 min</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -194,7 +200,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center">
+                                                <strong>&gt;&gt; <a href="https://cuty.io/MarinaM06" target="_blank">Descargar</a> &lt;&lt;</strong>
+                                            </td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -203,7 +212,7 @@
                                 <td>
                                     <table width="100%" border="0" cellpadding="0">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Bobbi<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Bobbi<br> 235Mb - 17 min</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -231,7 +240,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center">
+                                                <strong>&gt;&gt; <a href="https://cuty.io/Bobbi" target="_blank">Descargar</a> &lt;&lt;</strong>
+                                            </td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -240,7 +252,7 @@
                                 <td>
                                     <table width="100%" border="0" cellpadding="0">
                                         <tr bgcolor="cornflowerblue">
-                                            <td colspan="2" align="center"><h3>Shanice<br> 140Mb - 14 min total</h3></td>
+                                            <td colspan="2" align="center"><h3>Shanice<br> 163Mb - 13 min</h3></td>
                                         </tr>
                                         <tr>
                                             <td width="50%">
@@ -268,7 +280,10 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center">
+                                                <strong>&gt;&gt; <a href="https://cuty.io/Shanice" target="_blank">Descargar</a> &lt;&lt;</strong>
+                                            </td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
