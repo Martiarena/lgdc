@@ -11,8 +11,8 @@
                 <hr>
                 <div class="sidebar">
                     <div>
-             			<h2>XXX</h2>
-                        <p>Nopor que hallé en un viejo cd. Videos publicados, entre 2004 a 2012 (creo), mi eterna waifu Hitomi Tanaka <3 .</u></p>
+             			<h2>Nopor</h2>
+                        <p>Videos que hallé en un viejo CD, la colección consiste principalmente de mi waifu platónica Hitomi Tanaka &hearts; y videos de existintos sitios nopor de esa época. A pesar de haber sido plubicados entre 2005 a 2012, encontré la versión HD de algunos de ellos. El password para todos es "<strong>LaGuarida89</strong>".</p>
              			<table width="100%" border="3px" cellpadding="3px">
                             <tr>
                                 <td>

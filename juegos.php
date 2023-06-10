@@ -212,7 +212,7 @@ body.iframe-lightbox--open {
                 <div class="sidebar">
                     <div>
              			<h2>Juegos</h2>
-                        <p>Estos videojuegos datan de mi época del secundario, los conocí en mis clases de computación y los jugabamos cuando el profesor demoraba en llegar xD. <u>Funcionarán a la perfección si los corres en un windows 98.</u></p>
+                        <p>Varios de estos videojuegos datan de mi época del secundario (2001-2005), los conocí en mis clases de computación y los jugabamos cuando el profesor demoraba en llegar xd. <u>Los videojuegos en plataforma MS-DOS funcionarán a la perfección si los ejecutas en un windows 98</u> pero en sistemas Windows más modernos necesitarás el emulador <a href="#" target="_blank">DOSBOX</a>.</p>
              			<table id="juegos-lista" width="100%" border="3px" cellpadding="3px">
                             <tr>
                                 <td width="50%">
@@ -224,7 +224,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Mis compañeros de la secundaria se lo jugaban para pasar el rato cuando el profesor no venía, muy divertido como también dificil.</p>
+                                    <p>Mis compañeros de la secundaria lo jugaban para pasar el rato cuando el profesor no venía, es muy divertido con una dificultad moderada y tiene gran similitud con los juegos de Mario bross. Creado por <a href="https://es.wikipedia.org/wiki/John_Romero" target="blank">John Romero</a>.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Judas" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -238,7 +238,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> FPS</li>
 										<li><strong>Plataforma:</strong> Flash Player</li>
 									</ul>
-                                    <p>Otro clásico de la secundaria. Es un videojuego corto donde debemos acabar con terroristas en distintas misiones antes que nos disparen. Está hecho con flash.</p>
+                                    <p>Otro clásico de la secundaria xd. Es un videojuego de disparos donde debemos acabar con terroristas en distintas misiones antes que nos disparen, debes ser muy rápido con el mouse para superarlo. Está hecho con flash desarrollado por TechRadium en 2001.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/WarOnTerror" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -252,7 +252,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> Arcade</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Se debe hacer la mayor puntuación posible antes que llegue el Yeti a comerte xd. Es imposible escapar del Yeti, pero hay una tecla que aumenta la velocidad del esquiador para evitar que el Yeti te atrape tan rápido.</p>
+                                    <p>Muchos ya lo deben conocer xd, y recordar al Yeti que aparece para comerte pasado los 2000 metros. Hay una tecla que permite aumentar la velocidad pero es imposible escapar del Yeti xd.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Skifree" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -266,7 +266,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Plataformero muy divertido.</p>
+                                    <p>Una versión no oficial para MS-DOS de Super Mario Bros, creada por Wiering Software (1997). Su historia tiene lugar en un mundo de fantasía aterrorizado por tres dragones que se apoderaron de tres reinos. Angelo debe derrotarlos y rescatar a la princesa de cada reino secuestrada por los dragones.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/SuperAngelo" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -280,7 +280,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Plataformero muy divertido.</p>
+                                    <p>Creado por Ysuer en 1997, un SHMUP donde en vez de esquivar balas deberás reflejarlas hacia tus enemigos, una mecánica muy buena y disfrutable.</p>
                                     <strong>&gt;&gt; <a href="#https://cuty.io/Reflection" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -289,7 +289,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/galacta.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Galacta</h3>
+                                    <h3>Galacta, The battle for Saturn</h3>
 									<ul>
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -345,7 +345,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/indinaloq.jpg" />
                                 </td>
                                 <td>
-                                    <h3>IndinaLoq</h3>
+                                    <h3>Idinaloq</h3>
                                     <ul>
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> PC</li>
