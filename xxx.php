@@ -46,7 +46,8 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center"><strong>&gt;&gt; <a href="https://cuty.io/HitomiA323" target="_blank">Descargar</a> &lt;&lt;</strong></td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
@@ -83,7 +84,8 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td align="center" colspan="2"><a href="#"><strong>&gt;&gt; Descargar &lt;&lt;</strong></a></td>
+                                            <td align="center"><strong>&gt;&gt; <a href="https://cuty.io/HitomiA325" target="_blank">Descargar</a> &lt;&lt;</strong></td>
+                                            <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                         </tr>
                                     </table>
                                 </td>
