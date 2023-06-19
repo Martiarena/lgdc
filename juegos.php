@@ -294,7 +294,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Plataformero muy divertido.</p>
+                                    <p>SHMUP creado por Albino Frog Software, Inc. Algo que descubrí mucho después es que el juego tenía un pequeño guión, no recuerdo como lo obtuve pero sé que viene de las épocas de mi secundaria.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Galacta" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -308,7 +308,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Plataformero muy divertido.</p>
+                                    <p>Autor David and Benjamin Ibach. Se siente mucha influencia de los primeros juegos de Mario, cuando el enemigo principal era Donkey Kong.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/AldoAdventur" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -336,7 +336,7 @@ body.iframe-lightbox--open {
 										<li><strong>Género:</strong> Carrera, Survival</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Plataformero muy divertido.</p>
+                                    <p>Juego de supervivencia muy entretenido en su tiempo.</p>
                                     <strong>&gt;&gt; <a href="#https://cuty.io/Race19" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
