@@ -19,7 +19,7 @@
                                 <li><a href="juegos.php">Juegos</a></li>
                                 <li><a href="underconstruction.php">Videos</a></li>
                                 <li><a href="xxx.php">Xxx</a></li>
-                                <li><a href="underconstruction.php">Otros</a></li>
+                                <li><a href="aplicaciones.php">Aplicaciones</a></li>
                                 <li><a href="underconstruction.php">Enlaces</a></li>
                             </ul>
                         </nav>
