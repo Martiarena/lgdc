@@ -211,20 +211,20 @@ body.iframe-lightbox--open {
                 <hr>
                 <div class="sidebar">
                     <div>
-             			<h2>Juegos</h2>
-                        <p>Varios de estos videojuegos datan de mi época del secundario (2001-2005), los conocí en mis clases de computación y los jugabamos cuando el profesor demoraba en llegar xd. <u>Los videojuegos en plataforma MS-DOS funcionarán a la perfección si los ejecutas en un windows 98</u> pero en sistemas Windows más modernos necesitarás el emulador <a href="#" target="_blank">DOSBOX</a>.</p>
+             			<h1>Videojuegos</h1>
+                        <p>Varios de estos videojuegos datan de mi época como estudiante de secundaria (2001-2005), los conocí en mis clases de computación y los jugaba con compañeros cuando el profesor demoraba en llegar a clase xd. <u>Los videojuegos en plataforma MS-DOS funcionarán a la perfección si los ejecutas en un windows 98</u> pero en sistemas Windows más modernos necesitarás el emulador <a href="#" target="_blank">DOSBOX</a>.</p>
              			<table id="juegos-lista" width="100%" border="3px" cellpadding="3px">
                             <tr>
                                 <td width="50%">
                                     <img width="100%" src="img/juegos/dangerous_dave.jpg" />
                                 </td>
                                 <td width="50%">
-                                    <h3>Dangerous Dave</h3>
+                                    <h2>Dangerous Dave</h2>
 									<ul>
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Mis compañeros de la secundaria lo jugaban para pasar el rato cuando el profesor no venía, es muy divertido con una dificultad moderada y tiene gran similitud con los juegos de Mario bross. Creado por <a href="https://es.wikipedia.org/wiki/John_Romero" target="blank">John Romero</a>.</p>
+                                    <p>Es muy divertido, con una dificultad moderada y una gran similitud con los juegos de Mario bross. Creado por <a href="https://es.wikipedia.org/wiki/John_Romero" target="blank">John Romero</a>.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Judas" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -233,12 +233,12 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/specops_war_on_terrorism.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Spec Ops: War on Terrorism</h3>
+                                    <h2>Spec Ops: War on Terrorism</h2>
 									<ul>
 										<li><strong>Género:</strong> FPS</li>
 										<li><strong>Plataforma:</strong> Flash Player</li>
 									</ul>
-                                    <p>Otro clásico de la secundaria xd. Es un videojuego de disparos donde debemos acabar con terroristas en distintas misiones antes que nos disparen, debes ser muy rápido con el mouse para superarlo. Está hecho con flash desarrollado por TechRadium en 2001.</p>
+                                    <p>Videojuego de disparos donde debemos acabar con terroristas en distintas misiones antes que nos disparen, debes ser muy rápido con el mouse para superarlo. Está hecho con Flash. desarrollado por TechRadium en 2001.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/WarOnTerror" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -247,12 +247,12 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/skifree.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Skifree</h3>
+                                    <h2>Skifree</h2>
                                     <ul>
 										<li><strong>Género:</strong> Arcade</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Muchos ya lo deben conocer xd, y recordar al Yeti que aparece para comerte pasado los 2000 metros. Hay una tecla que permite aumentar la velocidad pero es imposible escapar del Yeti xd.</p>
+                                    <p>Muchos ya lo deben conocer y recordar al Yeti que aparece para comerte pasado los 2000 metros. Hay una tecla que permite aumentar la velocidad pero es imposible escapar del Yeti xd.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Skifree" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>

@@ -10,7 +10,7 @@ body{
     margin: 0px;
 }
 
-h1{
+.text-align-center {
     text-align: center;
 }
 h2, h3{
@@ -184,6 +184,25 @@ main .contenedor.advertencia {
 }
 #juegos-lista ul {
     padding-left: 15px;
+}
+
+
+.aplicaciones thead {
+    background-color: skyblue;
+    color: black;
+}
+.aplicaciones .aplicacion {
+    padding: 10px 15px;
+    box-sizing: border-box;
+    border-style: outset;
+    background: royalblue;
+    border-color: lightsteelblue;
+}
+.aplicaciones .aplicacion img {
+    padding: 0px 25px 0px 0px;
+}
+.aplicaciones .aplicacion a {
+    /* color: blue;*/ 
 }
 
 

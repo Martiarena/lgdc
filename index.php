@@ -9,7 +9,7 @@
             <div class="contenedor texto-imprimible">
                 <?php include("includes/disclaimer.php"); ?>
                 <hr>
-     			<h1>Bienvenidos a mi P&aacute;gina web</h1>
+     			<h1 class="text-align-center">Bienvenidos a mi P&aacute;gina web</h1>
                 <div>
                     <img align="right" width="90" height="90" src="https://trueroledreams.org/wp-content/uploads/2022/05/Crimsondeath-avatar-animated.gif" />
                     <p>Soy Crimsondeath, un desarrollador de videojuegos aficionado y dueño de <a href="https://www.trueroledreams.org" target="_blank">True Role Dreams</a>, una empresa ficticia que creé hace años y sirve como escaparate para exponer los videojuegos que hago.</p>
