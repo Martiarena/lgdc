@@ -39,8 +39,8 @@
 											<tr>
 												<th><a href="#" target="_blank"><img src="img/aplicaciones/RPG-maker-2000-icon.png" /></a></th>
 												<td>
-													<h3>RPG maker 2003 (ver 1.02) + RTP</h3>
-													<p><strong>&gt;&gt; <a href="#" target="_blank">Descargar</a></strong></p>
+													<h3>RPG maker 2003 (ver 1.09) + RTP</h3>
+													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmaker2003" target="_blank">Descargar</a></strong></p>
 												</td>
 											</tr>
 										</table>
@@ -85,10 +85,10 @@
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="#" target="_blank"><img src="img/aplicaciones/OpenBOR-icon.png" /></a></th>
+												<th><a href="https://cuty.io/OpenBORPack" target="_blank"><img src="img/aplicaciones/OpenBOR-icon.png" /></a></th>
 												<td>
 													<h3>OpenBOR Neo Edit Pack</h3>
-													<p><strong>&gt;&gt; <a href="#" target="_blank">Descargar</a></strong></p>
+													<p><strong>&gt;&gt; <a href="https://cuty.io/OpenBORPack" target="_blank">Descargar</a></strong></p>
 												</td>
 											</tr>
 										</table>

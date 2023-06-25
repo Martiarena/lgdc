@@ -261,7 +261,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/marioangelo.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Mario Angelo</h3>
+                                    <h2>Mario Angelo</h2>
 									<ul>
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -275,7 +275,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/reflection.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Reflection</h3>
+                                    <h2>Reflection</h2>
 									<ul>
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -289,7 +289,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/galacta.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Galacta, The battle for Saturn</h3>
+                                    <h2>Galacta, The battle for Saturn</h2>
 									<ul>
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -303,7 +303,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/aldoadventure.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Aldo Adventure</h3>
+                                    <h2>Aldo Adventure</h2>
 									<ul>
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -317,7 +317,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/mario.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Mario</h3>
+                                    <h2>Mario</h2>
 									<ul>
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -331,7 +331,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/race19.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Race 19</h3>
+                                    <h2>Race 19</h2>
 									<ul>
 										<li><strong>Género:</strong> Carrera, Survival</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
@@ -345,7 +345,7 @@ body.iframe-lightbox--open {
                                     <img width="100%" src="img/juegos/indinaloq.jpg" />
                                 </td>
                                 <td>
-                                    <h3>Idinaloq</h3>
+                                    <h2>Idinaloq</h2>
                                     <ul>
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> PC</li>

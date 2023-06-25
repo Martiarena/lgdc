@@ -179,8 +179,9 @@ main .contenedor.advertencia {
 	animation: effect 2s linear infinite;
 }
 
-#juegos-lista h3{
+#juegos-lista h2 {
     color: greenyellow;
+    font-size: 1.17em;
 }
 #juegos-lista ul {
     padding-left: 15px;
