@@ -206,6 +206,11 @@ main .contenedor.advertencia {
     /* color: blue;*/ 
 }
 
+#nopor h2, #nopor h3, #nopor p {
+    margin-bottom: 0.25em;
+    margin-top: 0.25em;
+}
+
 
 @keyframes effect {
 	0% {
