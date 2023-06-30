@@ -11,13 +11,13 @@
                 <hr>
                 <div class="sidebar">
                     <div>
-             			<h1>Aplicaciones</h1>
+             			<h1>Programas</h1>
                         <p>Varios de estos videojuegos datan de mi época del secundario (2001-2005), los conocí en mis clases de computación y los jugabamos cuando el profesor demoraba en llegar xd. <u>Los videojuegos en plataforma MS-DOS funcionarán a la perfección si los ejecutas en un windows 98</u> pero en sistemas Windows más modernos necesitarás el emulador <a href="#" target="_blank">DOSBOX</a>.</p>
                         <table class="aplicaciones">
 							<thead>
 								<tr>
 									<th colspan="2">
-										<h2>Motores de Videojuegos</h2>
+										<h2>Programas para crear videojuegos</h2>
 									</th>
 								</tr>
 							</thead>
@@ -26,7 +26,7 @@
 									<td width="50%" align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/RPGmaker2000" target="_blank"><img src="img/aplicaciones/RPG-maker-2000-icon.png" /></a></th>
+												<th><a href="https://cuty.io/RPGmaker2000" target="_blank"><img alt="Programas descargar gratis RPG maker 2000" src="img/programas/programas-descargar-gratis-RPG-maker-2000.png" /></a></th>
 												<td>
 													<h3>RPG maker 2000 Value + RTP</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmaker2000" target="_blank">Descargar</a></strong></p>
@@ -37,7 +37,7 @@
 									<td  width="50%" align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/RPGmaker2003" target="_blank"><img src="img/aplicaciones/RPG-maker-2003-icon.png" /></a></th>
+												<th><a href="https://cuty.io/RPGmaker2003" target="_blank"><img alt="Programas descargar gratis RPG maker 2003" src="img/programas/programas-descargar-gratis-RPG-maker-2003.png" /></a></th>
 												<td>
 													<h3>RPG maker 2003 (ver 1.09) + RTP</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmaker2003" target="_blank">Descargar</a></strong></p>
@@ -50,7 +50,7 @@
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/RPGmakerXP" target="_blank"><img src="img/aplicaciones/RPG-maker-XP-icon.png" /></a></th>
+												<th><a href="https://cuty.io/RPGmakerXP" target="_blank"><img alt="Programas descargar gratis RPG maker XP" src="img/programas/programas-descargar-gratis-RPG-maker-XP.png" /></a></th>
 												<td>
 													<h3>RPG maker XP + RTP y RGSS Extractor</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmakerXP" target="_blank">Descargar</a></strong></p>
@@ -61,7 +61,7 @@
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/RPGmakerVX" target="_blank"><img src="img/aplicaciones/RPG-maker-VX-icon.png" /></a></th>
+												<th><a href="https://cuty.io/RPGmakerVX" target="_blank"><img alt="Programas descargar gratis RPG maker VX" src="img/programas/programas-descargar-gratis-RPG-maker-VX.png" /></a></th>
 												<td>
 													<h3>RPG maker VX + RTP y extras</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmakerVX" target="_blank">Descargar</a></strong></p>
@@ -74,7 +74,7 @@
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/RPGmakerACE" target="_blank"><img src="img/aplicaciones/RPG-maker-VX-ACE-icon.png" /></a></th>
+												<th><a href="https://cuty.io/RPGmakerACE" target="_blank"><img alt="Programas descargar gratis RPG maker VX ACE" src="img/programas/programas-descargar-gratis-RPG-maker-VX-Ace.png" /></a></th>
 												<td>
 													<h3>RPG maker VX ACE + RTP y extras</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmakerACE" target="_blank">Descargar</a></strong></p>
@@ -85,7 +85,7 @@
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/OpenBORPack" target="_blank"><img src="img/aplicaciones/OpenBOR-icon.png" /></a></th>
+												<th><a href="https://cuty.io/OpenBORPack" target="_blank"><img alt="Programas descargar gratis OpenBOR Neo Edit Pack" src="img/programas/programas-descargar-gratis-OpenBOR-neo-edit-pack.png" /></a></th>
 												<td>
 													<h3>OpenBOR Neo Edit Pack</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/OpenBORPack" target="_blank">Descargar</a></strong></p>
@@ -96,12 +96,12 @@
 								</tr>
 							</tbody>
                         </table>
-						<p><strong>Password para todas las aplicaciones:</strong> <u>LaGuarida89</u></p>
+						<p><strong>Password para todos los programas:</strong> <u>LaGuarida89</u></p>
 						<table width="100%" class="aplicaciones">
 							<thead>
 								<tr>
 									<th colspan="2">
-										<h2>Diseño Gráfico</h2>
+										<h2>Programas de Diseño Gráfico</h2>
 									</th>
 								</tr>
 							</thead>
@@ -110,9 +110,9 @@
 									<td align="center">
 										<table width="50%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/PhotoshopCS5" target="_blank"><img src="img/aplicaciones/Adobe-Photoshop-icon.png" /></a></th>
+												<th><a href="https://cuty.io/PhotoshopCS5" target="_blank"><img alt="Programas descargar gratis Adobe Photoshop CS5" src="img/programas/programas-descargar-gratis-adobe-photoshop-cs5.png" /></a></th>
 												<td>
-													<h3>Photoshop CS5</h3>
+													<h3>Adobe Photoshop CS5</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/PhotoshopCS5" target="_blank">Descargar</a></strong></p>
 												</td>
 											</tr>
@@ -131,7 +131,7 @@
 								</tr>
 							</tbody>
                         </table>
-						<p><strong>Password para todas las aplicaciones:</strong> <u>LaGuarida89</u></p>
+						<p><strong>Password para todas los programas es:</strong> <u>LaGuarida89</u></p>
                     </div>
                     <aside>
                         <div id="sidebar">
