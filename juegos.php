@@ -3,14 +3,9 @@
   	<head>
 		<?php include("includes/head.php"); ?>
 		<link rel="stylesheet" type="text/css" href="resources/lightbox/lightbox.css">
-        
 	</head>
  	<body id="luz">
         <?php include("includes/cabecera.php"); ?>
-		<div data-group="gallery1" class="lightbox">
-  <img src="img/juegos/dangerous_dave.jpg" alt="Imagen 1">
-  <img src="img/juegos/dangerous_dave.jpg" alt="Imagen 2">
-</div>
 
 
         <main>
@@ -24,7 +19,13 @@
              			<table id="juegos-lista" width="100%" border="3px" cellpadding="3px">
                             <tr>
                                 <td width="50%">
-                                    <img width="100%" src="img/juegos/dangerous_dave.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/dangerous-dave/dangerous-dave-platformer-free-game-ms-dos-2.png" alt="Free MS DOS game platformer Dangerous Dave" data-group="dave" />
+										<img width="100%" src="img/juegos/dangerous-dave/dangerous-dave-platformer-free-game-ms-dos-1.png" alt="Free MS DOS game platformer Dangerous Dave" data-group="dave" />
+										<img width="100%" src="img/juegos/dangerous-dave/dangerous-dave-platformer-free-game-ms-dos-3.png" alt="Free MS DOS game platformer Dangerous Dave" data-group="dave" />
+										<img width="100%" src="img/juegos/dangerous-dave/dangerous-dave-platformer-free-game-ms-dos-4.png" alt="Free MS DOS game platformer Dangerous Dave" data-group="dave" />
+                                        <img width="100%" src="img/juegos/dangerous-dave/dangerous-dave-platformer-free-game-ms-dos-5.png" alt="Free MS DOS game platformer Dangerous Dave" data-group="dave" />
+									</div>
                                 </td>
                                 <td width="50%">
                                     <h2>Dangerous Dave</h2>
@@ -38,7 +39,13 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/specops_war_on_terrorism.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/spec-ops-war-on-terrorism/spec-ops-war-on-terrorism-free-pc-shooter-flash-2.jpg" alt="Free Flash game shooter Spec ops war on terrorism" data-group="specops" />
+										<img width="100%" src="img/juegos/spec-ops-war-on-terrorism/spec-ops-war-on-terrorism-free-pc-shooter-flash-1.jpg" alt="Free Flash game shooter Spec ops war on terrorism" data-group="specops" />
+										<img width="100%" src="img/juegos/spec-ops-war-on-terrorism/spec-ops-war-on-terrorism-free-pc-shooter-flash-3.jpg" alt="Free Flash game shooter Spec ops war on terrorism" data-group="specops" />
+										<img width="100%" src="img/juegos/spec-ops-war-on-terrorism/spec-ops-war-on-terrorism-free-pc-shooter-flash-4.jpg" alt="Free Flash game shooter Spec ops war on terrorism" data-group="specops" />
+										<img width="100%" src="img/juegos/spec-ops-war-on-terrorism/spec-ops-war-on-terrorism-free-pc-shooter-flash-5.jpg" alt="Free Flash game shooter Spec ops war on terrorism" data-group="specops" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Spec Ops: War on Terrorism</h2>
@@ -52,7 +59,12 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/skifree.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/skifree/skifree-free-pc-survival-game-windows-1.png" alt="Free PC Windows game survival Skifree" data-group="skifree" />
+										<img width="100%" src="img/juegos/skifree/skifree-free-pc-survival-game-windows-2.png" alt="Free PC Windows game survival Skifree" data-group="skifree" />
+										<img width="100%" src="img/juegos/skifree/skifree-free-pc-survival-game-windows-3.png" alt="Free PC Windows game survival Skifree" data-group="skifree" />
+										<img width="100%" src="img/juegos/skifree/skifree-free-pc-survival-game-windows-4.png" alt="Free PC Windows game survival Skifree" data-group="skifree" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Skifree</h2>
@@ -66,7 +78,13 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/marioangelo.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/super-angelo/super-mario-angelo-free-pc-platformer-dos-1.png" alt="Free DOS game platformer Super Mario Angelo" data-group="superangelo" />
+										<img width="100%" src="img/juegos/super-angelo/super-mario-angelo-free-pc-platformer-dos-2.png" alt="Free DOS game platformer Super Mario Angelo" data-group="superangelo" />
+										<img width="100%" src="img/juegos/super-angelo/super-mario-angelo-free-pc-platformer-dos-3.png" alt="Free DOS game platformer Super Mario Angelo" data-group="superangelo" />
+										<img width="100%" src="img/juegos/super-angelo/super-mario-angelo-free-pc-platformer-dos-4.png" alt="Free DOS game platformer Super Mario Angelo" data-group="superangelo" />
+										<img width="100%" src="img/juegos/super-angelo/super-mario-angelo-free-pc-platformer-dos-5.png" alt="Free DOS game platformer Super Mario Angelo" data-group="superangelo" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Mario Angelo</h2>
@@ -94,7 +112,12 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/galacta.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/galacta/galacta-the-battle-for-saturn-free-game-ms-dos-shmup-1.png" alt="Free MS DOS game shmup Galacta the battle for saturn" data-group="galacta" />
+										<img width="100%" src="img/juegos/galacta/galacta-the-battle-for-saturn-free-game-ms-dos-shmup-2.png" alt="Free MS DOS game shmup Galacta the battle for saturn" data-group="galacta" />
+										<img width="100%" src="img/juegos/galacta/galacta-the-battle-for-saturn-free-game-ms-dos-shmup-3.png" alt="Free MS DOS game shmup Galacta the battle for saturn" data-group="galacta" />
+										<img width="100%" src="img/juegos/galacta/galacta-the-battle-for-saturn-free-game-ms-dos-shmup-4.png" alt="Free MS DOS game shmup Galacta the battle for saturn" data-group="galacta" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Galacta, The battle for Saturn</h2>
@@ -108,7 +131,13 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/aldoadventure.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/aldo-adventure/aldo-adventure-free-game-ms-dos-platformer-1.png" alt="Free MS DOS game platformer Aldo Adventure" data-group="aldoadventure" />
+										<img width="100%" src="img/juegos/aldo-adventure/aldo-adventure-free-game-ms-dos-platformer-2.png" alt="Free MS DOS game platformer Aldo Adventure" data-group="aldoadventure" />
+										<img width="100%" src="img/juegos/aldo-adventure/aldo-adventure-free-game-ms-dos-platformer-3.png" alt="Free MS DOS game platformer Aldo Adventure" data-group="aldoadventure" />
+										<img width="100%" src="img/juegos/aldo-adventure/aldo-adventure-free-game-ms-dos-platformer-4.png" alt="Free MS DOS game platformer Aldo Adventure" data-group="aldoadventure" />
+                                        <img width="100%" src="img/juegos/aldo-adventure/aldo-adventure-free-game-ms-dos-platformer-5.png" alt="Free MS DOS game platformer Aldo Adventure" data-group="aldoadventure" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Aldo Adventure</h2>
@@ -122,7 +151,12 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/mario.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/mario/mario-platformer-free-game-ms-dos-1.png" alt="Free MS DOS game platformer Mario" data-group="mario" />
+										<img width="100%" src="img/juegos/mario/mario-platformer-free-game-ms-dos-2.png" alt="Free MS DOS game platformer Mario" data-group="mario" />
+										<img width="100%" src="img/juegos/mario/mario-platformer-free-game-ms-dos-3.png" alt="Free MS DOS game platformer Mario" data-group="mario" />
+										<img width="100%" src="img/juegos/mario/mario-platformer-free-game-ms-dos-4.png" alt="Free MS DOS game platformer Mario" data-group="mario" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Mario</h2>
@@ -150,12 +184,12 @@
                             </tr>
                             <tr>
                                 <td>
-									<div data-group="idinaloq" class="lightbox thumbnail">
-										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-1.jpg" alt="Free PC game Shmup Arcade Idinaloq" />
-										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-2.jpg" alt="Free PC game Shmup Arcade Idinaloq" />
-										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-3.jpg" alt="Free PC game Shmup Arcade Idinaloq" />
-										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-4.jpg" alt="Free PC game Shmup Arcade Idinaloq" />
-										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-5.jpg" alt="Free PC game Shmup Arcade Idinaloq" />
+									<div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-1.jpg" alt="Free PC game Shmup Arcade Idinaloq" data-group="idinaloq" />
+										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-2.jpg" alt="Free PC game Shmup Arcade Idinaloq" data-group="idinaloq" />
+										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-3.jpg" alt="Free PC game Shmup Arcade Idinaloq" data-group="idinaloq" />
+										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-4.jpg" alt="Free PC game Shmup Arcade Idinaloq" data-group="idinaloq" />
+										<img width="100%" src="img/juegos/idinaloq/Idinaloq-shmup-arcade-free-game-pc-5.jpg" alt="Free PC game Shmup Arcade Idinaloq" data-group="idinaloq" />
 									</div>
                                 </td>
                                 <td>
@@ -185,6 +219,13 @@
             <?php include("includes/warning.php"); ?>
         </main>
         <?php include("includes/footer.php") ?>
-		<script src="resources/lightbox/lightbox.js"></script>
+        <div id="lightbox-overlay"></div>
+        <div id="lightbox">
+            <img id="lightbox-image" src="" alt="Lightbox Image">
+            <div id="lightbox-close">&times;</div>
+            <div id="lightbox-prev">&#8249;</div>
+            <div id="lightbox-next">&#8250;</div>
+        </div>
+	    <script src="resources/lightbox/lightbox.js"></script>
 	</body>
 </html>

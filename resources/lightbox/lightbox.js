@@ -1,103 +1,69 @@
-// Obtener todos los elementos de galería
-const galleries = Array.from(document.querySelectorAll('.lightbox'));
+window.addEventListener('DOMContentLoaded', function() {
+  const galleries = document.querySelectorAll('.gallery');
+  const lightboxOverlay = document.getElementById('lightbox-overlay');
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImage = document.getElementById('lightbox-image');
+  const lightboxClose = document.getElementById('lightbox-close');
+  const lightboxPrev = document.getElementById('lightbox-prev');
+  const lightboxNext = document.getElementById('lightbox-next');
 
-// Agregar evento click a cada imagen para mostrar la galería
-galleries.forEach(gallery => {
-  const images = Array.from(gallery.getElementsByTagName('img'));
-  
-  images.forEach(image => {
-    image.addEventListener('click', () => {
-      showLightbox(gallery, image);
+  let currentGroup = '';
+  let currentIndex = 0;
+
+  galleries.forEach(function(gallery) {
+    const images = gallery.getElementsByTagName('img');
+    const group = images[0].getAttribute('data-group');
+
+    Array.from(images).forEach(function(image, index) {
+      image.addEventListener('click', function() {
+        currentGroup = group;
+        currentIndex = index;
+        showLightbox();
+        updateLightboxImage();
+      });
     });
   });
+
+  lightboxOverlay.addEventListener('click', hideLightbox);
+  lightboxClose.addEventListener('click', hideLightbox);
+  lightboxPrev.addEventListener('click', showPrevImage);
+  lightboxNext.addEventListener('click', showNextImage);
+  document.addEventListener('keydown', handleKeyPress);
+
+  function showLightbox() {
+    lightboxOverlay.style.display = 'block';
+    lightbox.style.display = 'block';
+  }
+
+  function hideLightbox() {
+    lightboxOverlay.style.display = 'none';
+    lightbox.style.display = 'none';
+  }
+
+  function updateLightboxImage() {
+    const images = document.querySelectorAll(`.gallery img[data-group="${currentGroup}"]`);
+    const image = images[currentIndex];
+    const imageUrl = image.getAttribute('src');
+    lightboxImage.setAttribute('src', imageUrl);
+  }
+
+  function showPrevImage() {
+    const images = document.querySelectorAll(`.gallery img[data-group="${currentGroup}"]`);
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    updateLightboxImage();
+  }
+
+  function showNextImage() {
+    const images = document.querySelectorAll(`.gallery img[data-group="${currentGroup}"]`);
+    currentIndex = (currentIndex + 1) % images.length;
+    updateLightboxImage();
+  }
+
+  function handleKeyPress(event) {
+    if (event.key === 'ArrowLeft') {
+      showPrevImage();
+    } else if (event.key === 'ArrowRight') {
+      showNextImage();
+    }
+  }
 });
-
-// Mostrar la galería lightbox
-function showLightbox(gallery, selectedImage) {
-  const lightbox = document.createElement('div');
-  lightbox.className = 'lightbox-show active';
-  
-  const closeBtn = document.createElement('span');
-  closeBtn.className = 'lightbox-close';
-  closeBtn.innerHTML = '&times;';
-  closeBtn.addEventListener('click', () => {
-    closeLightbox(lightbox);
-  });
-
-  lightbox.addEventListener('click', (event) => {
-    if (event.target === lightbox) {
-      closeLightbox(lightbox);
-    }
-  });
-  
-  const prevBtn = document.createElement('span');
-  prevBtn.className = 'lightbox-prev';
-  prevBtn.innerHTML = '&#10094;';
-  prevBtn.addEventListener('click', () => {
-    showPrevImage(gallery);
-  });
-  
-  const nextBtn = document.createElement('span');
-  nextBtn.className = 'lightbox-next';
-  nextBtn.innerHTML = '&#10095;';
-  nextBtn.addEventListener('click', () => {
-    showNextImage(gallery);
-  });
-  
-  const images = Array.from(gallery.getElementsByTagName('img'));
-  const currentIndex = images.indexOf(selectedImage);
-  
-  const currentImage = document.createElement('img');
-  currentImage.src = selectedImage.src;
-  currentImage.alt = selectedImage.alt;
-  
-  lightbox.appendChild(closeBtn);
-  lightbox.appendChild(prevBtn);
-  lightbox.appendChild(nextBtn);
-  lightbox.appendChild(currentImage);
-  document.body.appendChild(lightbox);
-  
-  // Actualizar clase activa en las imágenes
-  images.forEach((image, index) => {
-    if (index === currentIndex) {
-      image.classList.add('active');
-    } else {
-      image.classList.remove('active');
-    }
-  });
-}
-
-// Cerrar la galería lightbox
-function closeLightbox(lightbox) {
-  lightbox.parentNode.removeChild(lightbox);
-}
-
-// Mostrar la imagen anterior
-function showPrevImage(gallery) {
-  const images = Array.from(gallery.getElementsByTagName('img'));
-  const currentIndex = images.findIndex(image => image.classList.contains('active'));
-  const prevIndex = (currentIndex - 1 + images.length) % images.length;
-  images[currentIndex].classList.remove('active');
-  images[prevIndex].classList.add('active');
-  updateCurrentImage(gallery);
-}
-
-// Mostrar la siguiente imagen
-function showNextImage(gallery) {
-  const images = Array.from(gallery.getElementsByTagName('img'));
-  const currentIndex = images.findIndex(image => image.classList.contains('active'));
-  const nextIndex = (currentIndex + 1) % images.length;
-  images[currentIndex].classList.remove('active');
-  images[nextIndex].classList.add('active');
-  updateCurrentImage(gallery);
-}
-
-// Actualizar la imagen actual en la galería lightbox
-function updateCurrentImage(gallery) {
-  const lightbox = gallery.querySelector('.lightbox');
-  const currentImage = lightbox.querySelector('img');
-  const images = Array.from(gallery.getElementsByTagName('img'));
-  const currentIndex = images.findIndex(image => image.classList.contains('active'));
-  currentImage.src = images[currentIndex].src;
-  currentImage.alt = images[currentIndex].alt;
-}
