@@ -135,10 +135,10 @@
                     </div>
                     <aside>
                         <div id="sidebar">
-                            <h4>Necesario para juegos DOS-BOX Descarga:</h4>
+                            <!-- <h4>Necesario para juegos DOS-BOX Descarga:</h4>
                             <center><a href="https://www.dosbox.com/" target="_blank"><img src="img/compilations.jpg" /></a></center>
                             <hr>
-                            <center><a class="iframe-lightbox-link" href="game.html" target="_blank"><img src="img/banner_ff.gif" /></a></center>
+                            <center><a class="iframe-lightbox-link" href="game.html" target="_blank"><img src="img/banner_ff.gif" /></a></center> -->
                         </div>
                     </aside>
                 </div>

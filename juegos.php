@@ -6,8 +6,6 @@
 	</head>
  	<body id="luz">
         <?php include("includes/cabecera.php"); ?>
-
-
         <main>
             <div class="contenedor texto-imprimible">
                 <?php include("includes/disclaimer.php"); ?>
@@ -98,7 +96,13 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/reflection.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/reflection/reflection-free-pc-shmup-windows-3.png" alt="Reflection Free PC Shmup Windows" data-group="reflection" />
+										<img width="100%" src="img/juegos/reflection/reflection-free-pc-shmup-windows-1.png" alt="Reflection Free PC Shmup Windows" data-group="reflection" />
+										<img width="100%" src="img/juegos/reflection/reflection-free-pc-shmup-windows-2.png" alt="Reflection Free PC Shmup Windows" data-group="reflection" />
+										<img width="100%" src="img/juegos/reflection/reflection-free-pc-shmup-windows-4.png" alt="Reflection Free PC Shmup Windows" data-group="reflection" />
+                                        <img width="100%" src="img/juegos/reflection/reflection-free-pc-shmup-windows-5.png" alt="Reflection Free PC Shmup Windows" data-group="reflection" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Reflection</h2>
@@ -170,7 +174,11 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <img width="100%" src="img/juegos/race19.jpg" />
+                                    <div class="gallery thumbnail">
+										<img width="100%" src="img/juegos/race19/race19-free-ms-dos-survival-race-game-1.png" alt="Race19 Free MS DOS Survival Race Game" data-group="race19" />
+										<img width="100%" src="img/juegos/race19/race19-free-ms-dos-survival-race-game-2.png" alt="Race19 Free MS DOS Survival Race Game" data-group="race19" />
+										<img width="100%" src="img/juegos/race19/race19-free-ms-dos-survival-race-game-3.png" alt="Race19 Free MS DOS Survival Race Game" data-group="race19" />
+									</div>
                                 </td>
                                 <td>
                                     <h2>Race 19</h2>
@@ -209,7 +217,7 @@
                             <h4>Necesario para juegos DOS-BOX Descarga:</h4>
                             <center><a href="https://www.dosbox.com/" target="_blank"><img src="img/compilations.jpg" /></a></center>
                             <hr>
-                            <center><a class="iframe-lightbox-link" href="game.html" target="_blank"><img src="img/banner_ff.gif" /></a></center>
+                            <center><div class="game-iframe"><img onclick="openLightbox()" src="img/final-fight-arcade-jugar-ahora.gif" alt="Final Fight Arcade jugar ahora" data-group="finalfight" /></div></center>
                         </div>
                     </aside>
                 </div>
@@ -221,11 +229,33 @@
         <?php include("includes/footer.php") ?>
         <div id="lightbox-overlay"></div>
         <div id="lightbox">
+            <div id="lightbox-content"></div>
             <img id="lightbox-image" src="" alt="Lightbox Image">
             <div id="lightbox-close">&times;</div>
             <div id="lightbox-prev">&#8249;</div>
             <div id="lightbox-next">&#8250;</div>
         </div>
+        <div id="iframe-overlay" onclick="closeLightbox()"></div>
+        <div id="iframe-lightbox">
+            <iframe id="iframe-content" width="640" height="480" src="game.html" frameborder="0" allowfullscreen></iframe>
+        </div>
 	    <script src="resources/lightbox/lightbox.js"></script>
+        <script>
+            var overlay = document.getElementById('iframe-overlay');
+            var lightbox = document.getElementById('iframe-lightbox');
+            var iframe = document.getElementById('iframe-content');
+
+            function openLightbox() {
+                overlay.style.display = 'block';
+                lightbox.style.display = 'block';
+            }
+
+            function closeLightbox() {
+                overlay.style.display = 'none';
+                lightbox.style.display = 'none';
+                // Detener la reproducción del video al cerrar el lightbox (si se está reproduciendo)
+                iframe.src = iframe.src;
+            }
+        </script>
 	</body>
 </html>

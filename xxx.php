@@ -39,15 +39,15 @@
                                                                 <img width="100%" src="img/porn/hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-2.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
                                                             </td>
                                                             <td width="50%">
-                                                                <img width="100%" src="img/porn//hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-3.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
+                                                                <img width="100%" src="img/porn/hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-3.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
                                                             </td>
                                                         </tr>
                                                         <tr>
                                                             <td width="50%">
-                                                                <img width="100%" src="img/porn//hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-4.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
+                                                                <img width="100%" src="img/porn/hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-4.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
                                                             </td>
                                                             <td width="50%">
-                                                                <img width="100%" src="img/porn//hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-5.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
+                                                                <img width="100%" src="img/porn/hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-2-titjob-5.jpg" alt="Hitomi Tanaka Paizuri Maid Titjob" />
                                                             </td>
                                                         </tr>
                                                     </table>
@@ -68,7 +68,7 @@
                                             </tr>
                                             <tr>
                                                 <td width="50%">
-                                                    <img width="100%" src="img/porn//hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-4-titjob-1.jpg" alt="Hitomi Tanaka Paizuri Triple Titjob" />
+                                                    <img width="100%" src="img/porn/hitomi_tanaka/hitomi-tanaka-ars-32-j-cup-paizuri-special-scene-4-titjob-1.jpg" alt="Hitomi Tanaka Paizuri Triple Titjob" />
                                                 </td>
                                                 <td width="50%">
                                                     <table width="100%" border="0px" cellpadding="0px">
@@ -180,7 +180,7 @@
                                     <td>
                                         <table width="100%" border="0px" cellpadding="0px">
                                             <tr bgcolor="cornflowerblue">
-                                                <td colspan="2" align="center"><h3>Hitomi Tanaka: Exposure sex</h3><p>360Mb - 13 min</p></td>
+                                                <td colspan="2" align="center"><h3>Hitomi Tanaka: Exposure sex</h3><p>189Mb - 13 min</p></td>
                                             </tr>
                                             <tr>
                                                 <td width="50%">
@@ -208,7 +208,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td align="center"><strong>&gt;&gt; <a href="https://cuty.io/htpd473" target="_blank">Descargar</a> &lt;&lt;</strong></td>
+                                                <td align="center"><strong>&gt;&gt; <a href="https://cuty.io/Hitomi165" target="_blank">Descargar</a> &lt;&lt;</strong></td>
                                                 <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                             </tr>
                                         </table>
@@ -349,7 +349,7 @@
                                             </tr>
                                             <tr>
                                                 <td align="center">
-                                                    <strong>&gt;&gt; <a href="https://cuty.io/Bobbi" target="_blank">Descargar</a> &lt;&lt;</strong>
+                                                    <strong>&gt;&gt; <a href="https://cuty.io/AshleyUltTit" target="_blank">Descargar</a> &lt;&lt;</strong>
                                                 </td>
                                                 <td align="center"><strong>Password:</strong> LaGuarida89</td>
                                             </tr>
@@ -493,10 +493,8 @@
                     <aside>
                         <div id="sidebar">
                             <h4>Sitios Recomendados</h4>
-                            <a href="https://fullhentai.org/" target="_blank"><img src="img/mangadia.gif"/></a>
+                            <a href="https://fullhentai.org/" target="_blank"><img src="img/mangadia-hentai-manga-xxx-porno.gif"/></a>
                             <hr>
-                            <a href="https://pornohentai.org/manga-porno/" target="_blank"><img src="img/manga.gif"/></a>
-                            <a href="https://comics18.org/manga-hentai/" target="_blank"><img src="img/hentai.gif"/></a>
                         </div>
                     </aside>
                 </div>
