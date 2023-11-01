@@ -17,9 +17,9 @@
                             <ul>
                                 <li><a href="index.php">Inicio</a></li>
                                 <li><a href="juegos.php">Juegos</a></li>
-                                <li><a href="underconstruction.php">Videos</a></li>
-                                <li><a href="xxx.php">Xxx</a></li>
                                 <li><a href="programas.php">Programas</a></li>
+                                <li><a href="xxx.php">Xxx</a></li>
+                                <li><a href="underconstruction.php">Otros</a></li>
                                 <li><a href="underconstruction.php">Enlaces</a></li>
                             </ul>
                         </nav>

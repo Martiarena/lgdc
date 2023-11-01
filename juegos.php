@@ -13,7 +13,7 @@
                 <div class="sidebar">
                     <div>
              			<h1>Videojuegos</h1>
-                        <p>Varios de estos videojuegos datan de mi época como estudiante de secundaria (2001-2005), los conocí en mis clases de computación y los jugaba con compañeros cuando el profesor demoraba en llegar a clase xd. <u>Los videojuegos en plataforma MS-DOS funcionarán a la perfección si los ejecutas en un windows 98</u> pero en sistemas Windows más modernos necesitarás el emulador <a href="#" target="_blank">DOSBOX</a>.</p>
+                        <p>Varios de estos videojuegos los conocí en mis clases de computación la época de mi secundaria (2001-2005), y los jugaba cuando el profesor demoraba en llegar a clase xd. <u>Los videojuegos en plataforma MS-DOS funcionarán a la perfección si los ejecutas en un Windows 98</u> pero en sistemas Windows más modernos necesitarás el emulador <a href="https://www.dosbox.com/" target="_blank">DOSBOX</a>.</p>
              			<table id="juegos-lista" width="100%" border="3px" cellpadding="3px">
                             <tr>
                                 <td width="50%">
@@ -70,7 +70,7 @@
 										<li><strong>Género:</strong> Arcade</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Muchos ya lo deben conocer y recordar al Yeti que aparece para comerte pasado los 2000 metros. Hay una tecla que permite aumentar la velocidad pero es imposible escapar del Yeti xd.</p>
+                                    <p>Muchos ya lo deben conocer y recordar al Yeti que aparece para comerte pasado los 2000 metros. Hay una tecla que permite aumentar la velocidad pero es imposible escapar del Yeti xd. Creado por Chris Pirih.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Skifree" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -129,7 +129,7 @@
 										<li><strong>Género:</strong> SHMUP</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>SHMUP creado por Albino Frog Software, Inc. Algo que descubrí mucho después es que el juego tenía un pequeño guión, no recuerdo como lo obtuve pero sé que viene de las épocas de mi secundaria.</p>
+                                    <p>SHMUP creado por Albino Frog Software, Inc. Algo que descubrí tiempo después es que el juego tenía una pequeña historia, que se puede leer en la pantalla de título, presionando "Espacio".</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/Galacta" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -168,7 +168,7 @@
 										<li><strong>Género:</strong> Plataformero</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Plataformero muy divertido.</p>
+                                    <p>Otro clon no oficial de Mario Bros, muy divertido de jugar.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/MarioDOS" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -186,7 +186,7 @@
 										<li><strong>Género:</strong> Carrera, Survival</li>
 										<li><strong>Plataforma:</strong> MS-DOS</li>
 									</ul>
-                                    <p>Juego de supervivencia muy entretenido en su tiempo.</p>
+                                    <p>Juego de carreras de supervivencia, la pista es infinita y el puntaje sube a más distancia recorras sin chocar.</p>
                                     <strong>&gt;&gt; <a href="#https://cuty.io/Race19" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
@@ -214,9 +214,6 @@
                     </div>
                     <aside>
                         <div id="sidebar">
-                            <h4>Necesario para juegos DOS-BOX Descarga:</h4>
-                            <center><a href="https://www.dosbox.com/" target="_blank"><img src="img/compilations.jpg" /></a></center>
-                            <hr>
                             <center><div class="game-iframe"><img onclick="openLightbox()" src="img/final-fight-arcade-jugar-ahora.gif" alt="Final Fight Arcade jugar ahora" data-group="finalfight" /></div></center>
                         </div>
                     </aside>

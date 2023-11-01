@@ -206,7 +206,7 @@ main .contenedor.advertencia {
     /* color: blue;*/ 
 }
 
-#nopor h2, #nopor h3, #nopor p {
+#nopor h2, #nopor h3, #nopor table p {
     margin-bottom: 0.25em;
     margin-top: 0.25em;
 }
@@ -281,8 +281,12 @@ main .contenedor.advertencia {
 
 .sidebar {
     display: grid;
-    grid-template-columns: 3.9fr 1.1fr;
+    grid-template-columns: 4.2fr 0.8fr;
     grid-gap: 1em;
+}
+
+.xxx-section, .programas-section{
+    grid-template-columns: 3.9fr 1.1fr;
 }
 
 .juegos-grid {

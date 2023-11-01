@@ -9,10 +9,12 @@
             <div class="contenedor texto-imprimible">
                 <?php include("includes/disclaimer.php"); ?>
                 <hr>
-                <div class="sidebar">
+                <div class="sidebar xxx-section">
                     <div id="nopor">
              			<h1>XXX</h1>
-                        <p>Videos que hallé en un viejo CD, la colección consiste principalmente de mi waifu platónica Hitomi Tanaka &hearts; y videos de existintos sitios nopor de esa época. A pesar de haber sido plubicados entre 2005 a 2012, encontré la versión HD de algunos de ellos. El password para todos es "<strong>LaGuarida89</strong>".</p>
+                        <p>Clips que hallé en un viejo CD, la colección consiste principalmente de mi waifu y amor platónico, Hitomi Tanaka &hearts;, y videos de sitios nopor existintos antes del 2012.</p>
+                        <p>Algunos clips pesar de haber sido publicados entre los años 2005 y 2012, tienen una versión en HD que opté por hallar publicar para una mejor preservación.</p> 
+                        <p>El password para todos los clips es "<strong>LaGuarida89</strong>".</p>
              			<table width="100%" border="3px" cellpadding="3px">
                             <thead>
 								<tr>
@@ -311,7 +313,7 @@
                             <thead>
 								<tr>
 									<th colspan="2">
-										<h2>Big Boobs Dreams</h2>
+										<h2>Big Boobs Dreams Studio</h2>
 									</th>
 								</tr>
 							</thead>
@@ -400,7 +402,7 @@
                                     <td>
                                         <table width="100%" border="0" cellpadding="0">
                                             <tr bgcolor="cornflowerblue">
-                                                <td colspan="2" align="center"><h3>Shanice Titjob</h3><p>163Mb - 13 min</p></td>
+                                                <td colspan="2" align="center"><h3>Shanice, White on Black</h3><p>163Mb - 13 min</p></td>
                                             </tr>
                                             <tr>
                                                 <td width="50%">
@@ -492,9 +494,10 @@
                     </div>
                     <aside>
                         <div id="sidebar">
-                            <h4>Sitios Recomendados</h4>
                             <a href="https://fullhentai.org/" target="_blank"><img src="img/mangadia-hentai-manga-xxx-porno.gif"/></a>
-                            <hr>
+                            <script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
+ <ins class="eas6a97888e" data-zoneid="4124460"></ins> 
+ <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
                         </div>
                     </aside>
                 </div>
