@@ -4,6 +4,7 @@
             <div class="superior">
                 <div class="contenedor">
                     <div id="fecha"></div>
+                    <div id="sfchk5b98l9fhak5zy4zwmr4gda37sf56ze"></div><script type="text/javascript" src="https://counter6.optistats.ovh/private/counter.js?c=hk5b98l9fhak5zy4zwmr4gda37sf56ze&down=async" async></script><noscript><a href="https://www.contadorvisitasgratis.com" title="contador web gratis"><img src="https://counter6.optistats.ovh/private/contadorvisitasgratis.php?c=hk5b98l9fhak5zy4zwmr4gda37sf56ze" border="0" title="contador web gratis" alt="contador web gratis"></a></noscript>
                     <!-- <button id="imprimir">IMP</button> -->
                 </div>
             </div>
