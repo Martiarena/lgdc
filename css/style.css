@@ -281,18 +281,18 @@ main .contenedor.advertencia {
 
 .sidebar {
     display: grid;
-    grid-template-columns: 4.2fr 0.8fr;
+    grid-template-columns: 610px 120px;
     grid-gap: 1em;
 }
 
 .xxx-section, .programas-section{
-    grid-template-columns: 3.9fr 1.1fr;
+    grid-template-columns: 568px 160px;
 }
 
 .juegos-grid {
     display: grid;
     grid-template-columns: 1fr;
-    grid-gap: 1em;
+    grid-gap: 11px;
 }
 
 .juego-grid {

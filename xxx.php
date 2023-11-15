@@ -495,9 +495,7 @@
                     <aside>
                         <div id="sidebar">
                             <a href="https://fullhentai.org/" target="_blank"><img src="img/mangadia-hentai-manga-xxx-porno.gif"/></a>
-                            <script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
- <ins class="eas6a97888e" data-zoneid="4124460"></ins> 
- <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+                            <iframe src="//a.magsrv.com/iframe.php?idzone=4124460&size=160x600" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
                         </div>
                     </aside>
                 </div>

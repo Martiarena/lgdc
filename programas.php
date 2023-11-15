@@ -26,6 +26,17 @@
 									<td width="50%" align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
+												<th><a href="https://cuty.io/RPGmaker95" target="_blank"><img alt="Programas descargar gratis RPG maker 95" src="img/programas/programas-descargar-gratis-RPG-maker-95.png" /></a></th>
+												<td>
+													<h3>RPG maker 95</h3>
+													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmaker95" target="_blank">Descargar</a></strong></p>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td width="50%" align="center">
+									<table width="100%" class="aplicacion">
+											<tr>
 												<th><a href="https://cuty.io/RPGmaker2000" target="_blank"><img alt="Programas descargar gratis RPG maker 2000" src="img/programas/programas-descargar-gratis-RPG-maker-2000.png" /></a></th>
 												<td>
 													<h3>RPG maker 2000 Value + RTP</h3>
@@ -34,7 +45,9 @@
 											</tr>
 										</table>
 									</td>
-									<td width="50%" align="center">
+								</tr>
+								<tr>
+									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
 												<th><a href="https://cuty.io/RPGmaker2003" target="_blank"><img alt="Programas descargar gratis RPG maker 2003" src="img/programas/programas-descargar-gratis-RPG-maker-2003.png" /></a></th>
@@ -45,8 +58,6 @@
 											</tr>
 										</table>
 									</td>
-								</tr>
-								<tr>
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
@@ -58,6 +69,8 @@
 											</tr>
 										</table>
 									</td>
+								</tr>
+								<tr>
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
@@ -69,8 +82,6 @@
 											</tr>
 										</table>
 									</td>
-								</tr>
-								<tr>
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
@@ -82,6 +93,8 @@
 											</tr>
 										</table>
 									</td>
+								</tr>
+								<tr>
 									<td align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
@@ -89,6 +102,18 @@
 												<td>
 													<h3>OpenBOR Neo Edit Pack</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/OpenBORPack" target="_blank">Descargar</a></strong></p>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td align="center">
+										<table width="100%" class="aplicacion">
+											<tr>
+												<th><a href="https://info.sonicretro.org/RotSprite" target="_blank"><img alt="Programas descargar gratis RotSprite" src="https://info.sonicretro.org/images/c/c7/XenoTailsAvatar.giF" width="64" height="64" /></a></th>
+												<td>
+													<h3>RotSprite</h3>
+													<p>(Ampl&iacute;a y gira sprites)</p>
+													<p style="margin-bottom: 4px;"><strong>&gt;&gt; <a href="https://info.sonicretro.org/RotSprite" target="_blank">Ir al Sitio</a></strong></p>
 												</td>
 											</tr>
 										</table>
@@ -121,13 +146,29 @@
 									<td width="50%" align="center">
 										<table width="100%" class="aplicacion">
 											<tr>
-												<th><a href="https://cuty.io/PhotoshopCS5" target="_blank"><img alt="Programas descargar gratis Adobe Photoshop CS5" src="img/programas/programas-descargar-gratis-adobe-photoshop-cs5.png" /></a></th>
+												<th><a href="https://cuty.io/CoreldrawX7" target="_blank"><img alt="Programas descargar gratis Corel Draw X7" src="img/programas/programas-descargar-gratis-corel-draw-x7.png" /></a></th>
 												<td>
 													<h3>Corel Draw X7</h3>
-													<p><strong>&gt;&gt; <a href="#" target="_blank">Pronto...</a></strong></p>
+													<p><strong>&gt;&gt; <a href="https://cuty.io/CoreldrawX7" target="_blank">Pronto...</a></strong></p>
 												</td>
 											</tr>
 										</table>
+									</td>
+								</tr>
+								<tr>
+									<td width="50%" align="center">
+										<table width="100%" class="aplicacion">
+											<tr>
+												<th><a href="https://cuty.io/PremierePro2019" target="_blank"><img alt="Programas descargar gratis Adobe Photoshop CS5" src="img/programas/programas-descargar-gratis-adobe-premiere-Pro-2019.png" /></a></th>
+												<td>
+													<h3>Adobe Premiere Pro 2019</h3>
+													<p><strong>&gt;&gt; <a href="https://cuty.io/PremierePro2019" target="_blank">Descargar</a></strong></p>
+												</td>
+											</tr>
+										</table>
+									</td>
+									<td width="50%" align="center">
+										
 									</td>
 								</tr>
 							</tbody>
@@ -136,9 +177,7 @@
                     </div>
                     <aside>
                         <div id="sidebar">
-						<script async type="application/javascript" src="https://a.magsrv.com/ad-provider.js"></script> 
- <ins class="eas6a97888e" data-zoneid="4124460"></ins> 
- <script>(AdProvider = window.AdProvider || []).push({"serve": {}});</script>
+							<iframe src="//a.magsrv.com/iframe.php?idzone=4124460&size=160x600" width="160" height="600" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
                         </div>
                     </aside>
                 </div>

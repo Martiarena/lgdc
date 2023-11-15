@@ -11,7 +11,7 @@
                 <hr>
      			<h1 class="text-align-center">Bienvenidos la Guarida de CrimsonDeath</h1>
                 <p>La Guarida de CrimsonDeath es un sitio web personal que he creado por puro ocio para compartir archivos que podrían serte de utilidad como también traerte una tremenda nostalgia porque los tuviste guardados en tu PC cuando eras joven (y los borraste por accidente, o los perdiste en un viejo CD que se malogró, etc).</p>
-                <p>Estos archivos los descargué entre los años 2004 a 2012, asi que si encuentras algo que te trajo buenos recuerdos eres libre de descargarlo, eso si, <s>no me hago responsable si pescas algun virus o malware en el proceso</s>, <a id="disclaimer-link2" href="#disclaimer">leer el disclaimer</a>, <strong>todo click en este sitio es bajo tu propia responsabilidad</strong>.</p>
+                <p>Estos archivos los descargué entre los años 2004 a 2012, asi que si encuentras algo que te trajo buenos recuerdos eres libre de descargarlo, eso si, <u>no me hago responsable si pescas algun virus o malware en el proceso</u>, <a id="disclaimer-link2" href="#disclaimer">leer el disclaimer</a>, <strong>todo click en este sitio es bajo tu propia responsabilidad</strong>.</p>
                 <br>
                 <hr>
                 <br>
