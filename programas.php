@@ -28,7 +28,7 @@
 											<tr>
 												<th><a href="https://cuty.io/RPGmaker95" target="_blank"><img alt="Programas descargar gratis RPG maker 95" src="img/programas/programas-descargar-gratis-RPG-maker-95.png" /></a></th>
 												<td>
-													<h3>RPG maker 95</h3>
+													<h3>RPG maker 95 (con New Game)</h3>
 													<p><strong>&gt;&gt; <a href="https://cuty.io/RPGmaker95" target="_blank">Descargar</a></strong></p>
 												</td>
 											</tr>

@@ -207,17 +207,17 @@
 										<li><strong>Plataforma:</strong> PC</li>
 									</ul>
                                     <p>Creado por Namikaze Project a finales de los 90's. No recuerdo en qué página de juegos japones lo conocí, pero me gustó mucho en su momento, es compatible con windows 98 a windows XP, apartir de Windows Vista empezò a mostrar fallos volviendose casi injugable en Windows 10.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="#" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
 									<div class="gallery thumbnail">
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-1.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-2.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-3.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-4.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-5.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
+										<img width="100%" src="img/juegos/warcraft-iii-reign-of-chaos/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-1.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
+										<img width="100%" src="img/juegos/warcraft-iii-reign-of-chaos/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-2.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
+										<img width="100%" src="img/juegos/warcraft-iii-reign-of-chaos/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-3.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
+										<img width="100%" src="img/juegos/warcraft-iii-reign-of-chaos/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-4.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
+										<img width="100%" src="img/juegos/warcraft-iii-reign-of-chaos/Warcraft-III-Reign-of-Chaos-real-time-strategy-free-game-pc-5.jpg" alt="Free PC game Strategy Real Time PC Warcraft III Reign of Chaos" data-group="War3RoC" />
 									</div>
                                 </td>
                                 <td>
@@ -227,17 +227,17 @@
 										<li><strong>Plataforma:</strong> PC</li>
 									</ul>
                                     <p>Creado por Namikaze Project a finales de los 90's. No recuerdo en qué página de juegos japones lo conocí, pero me gustó mucho en su momento, es compatible con windows 98 a windows XP, apartir de Windows Vista empezò a mostrar fallos volviendose casi injugable en Windows 10.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="#" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
 									<div class="gallery thumbnail">
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-1.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-2.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-3.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-4.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft3/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-5.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-1.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-2.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-3.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-4.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-5.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
 									</div>
                                 </td>
                                 <td>
@@ -247,7 +247,7 @@
 										<li><strong>Plataforma:</strong> PC</li>
 									</ul>
                                     <p>Creado por Namikaze Project a finales de los 90's. No recuerdo en qué página de juegos japones lo conocí, pero me gustó mucho en su momento, es compatible con windows 98 a windows XP, apartir de Windows Vista empezò a mostrar fallos volviendose casi injugable en Windows 10.</p>
-                                    <strong>&gt;&gt; <a href="#">Descargar</a></strong>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/WarIIITFT" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                         </table>
