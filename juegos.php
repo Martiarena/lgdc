@@ -226,18 +226,18 @@
 										<li><strong>Género:</strong> Estrategia en Tiempo Real</li>
 										<li><strong>Plataforma:</strong> PC</li>
 									</ul>
-                                    <p>Creado por Namikaze Project a finales de los 90's. No recuerdo en qué página de juegos japones lo conocí, pero me gustó mucho en su momento, es compatible con windows 98 a windows XP, apartir de Windows Vista empezò a mostrar fallos volviendose casi injugable en Windows 10.</p>
-                                    <strong>&gt;&gt; <a href="#" target="_blank">Descargar</a></strong>
+                                    <p>Juegazo que conocí, gracias a un amigo, quien me enseñó a jugarlo. Pero lo que me cautivó de este videojuego fue su  editor del mundo con el que podía crearse nuevos mapas, enemigos y eventos. Mi videojuego favorito de PC hasta hoy.</p>
+                                    <strong>&gt;&gt; <a href="https://cuty.io/WarIIIROC" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
                             <tr>
                                 <td>
 									<div class="gallery thumbnail">
-										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-1.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-2.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-3.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-4.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
-										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/Warcraft-III-The-Frozen-Throne-real-time-strategy-free-game-pc-5.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/warcraft-iii-the-frozen-throne-real-time-strategy-free-game-pc-1.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/warcraft-iii-the-frozen-throne-real-time-strategy-free-game-pc-2.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/warcraft-iii-the-frozen-throne-real-time-strategy-free-game-pc-3.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/warcraft-iii-the-frozen-throne-real-time-strategy-free-game-pc-4.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
+										<img width="100%" src="img/juegos/warcraft-iii-the-frozen-throne/warcraft-iii-the-frozen-throne-real-time-strategy-free-game-pc-5.jpg" alt="Free PC game Strategy Real Time PC Warcraft III The Frozen Throne" data-group="War3TFT" />
 									</div>
                                 </td>
                                 <td>
@@ -245,8 +245,9 @@
                                     <ul>
 										<li><strong>Género:</strong> Estrategia en Tiempo Real</li>
 										<li><strong>Plataforma:</strong> PC</li>
+										<li><strong>Expansión de Warcraft III Reign of Chaos</strong></li>
 									</ul>
-                                    <p>Creado por Namikaze Project a finales de los 90's. No recuerdo en qué página de juegos japones lo conocí, pero me gustó mucho en su momento, es compatible con windows 98 a windows XP, apartir de Windows Vista empezò a mostrar fallos volviendose casi injugable en Windows 10.</p>
+                                    <p>Expansión de Warcraft III Reign of Chaos, viene con nuevas unidades, mapas y la segunda parte de la campaña. Su  editor del mundo fue potenciado permitiendo la importación de modelos 3D para las unidades y la creación de nuevas campañas.</p>
                                     <strong>&gt;&gt; <a href="https://cuty.io/WarIIITFT" target="_blank">Descargar</a></strong>
                                 </td>
                             </tr>
